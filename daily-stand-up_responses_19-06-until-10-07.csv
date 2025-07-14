@@ -1,0 +1,957 @@
+Creation Date,Check-in Name,Respondent,Critical points or blockers,Previous work day progress,Plans for today,Any blockers?
+2025-07-10T09:27:00-05:00,🤖 Daily Stand-up,Sergio Florez,No,"• Prepare prerelease about group chats for msteams and release the progress to staging
+• Tech talks with team to talk about pycon
+• Help JOhn to review security documents on vanta
+• Sync with jonathan alvarez about the changes made for the web performance
+• e2e talk with core team","• Prepare prerelease about group chats for msteams and release the progress to staging
+• Sync with Oscar about vscode marketplace data requirements
+• Sync with Jonathan about pending tasks about web performance.",No
+2025-07-10T09:07:48-05:00,🤖 Daily Stand-up,Santiago Zapata,No,"Review support cases 
+Support team initiatives 
+Finish launching Andres releases 
+Finish emoji releases","Review support cases 
+Review initiatives 
+Finish testing the missing releases of Andres 
+Upload the Fix of the emojis",No
+2025-07-10T08:56:35-05:00,🤖 Daily Stand-up,Oscar Marin Molina,No,"'- :speech_balloon: Daily talk
+- :male-technologist: Session with Jonathan
+- :mag_right: Information query for publisher
+- :clipboard: Session with Catalina to review Jira","'- :handshake: Meeting with Sergio and Catalina to create publisher profile
+- :dart: Full focus on Jira issues",No
+2025-07-10T08:49:48-05:00,🤖 Daily Stand-up,John Darwin Morales,No,"Product:
+- I worked in the invitation flow, but It wasn't enough to have an advance.
+- Meetings about sharing learnings about pycon, performance improvements, e2e tests.
+
+Security:
+- I have uploaded the policies in Vanta. Everything here is well. We're updated","Product:
+- I'm going to continue invitation flow for workspace members and external users. I hope to push the code into dev.
+
+Security:
+- I need to review a bug bounty, but the most important task is the invitation flow for today.",no
+2025-07-10T08:37:30-05:00,🤖 Daily Stand-up,Jesus Rivera,No,"• summary of pycon
+• Include and move to QA some items on syntro
+• Review issue with linear unhandled","Continue working on missing syntro features
+Sync about roadmap and next steps
+Keep learning about LLM's and Agents",No
+2025-07-10T08:33:03-05:00,🤖 Daily Stand-up,Sebastián Mora,No,"Sync with team about Pycon 2025
+Jonas meet about web improvements
+Continue working on research agent for DailyBot
+Release the code of agents
+Fixed the Syntro findings in the submission","Solving an issue with syntro related with the input editor
+Continue working on the agent 
+Meet with Horizon
+Send again the slack submission",no
+2025-07-10T08:19:32-05:00,🤖 Daily Stand-up,Carolina Marulanda,No,"• Work on syntro improvements
+• Read previous work around AI manager
+• Explore horizon ideas around Dailybot","• Ideation session with Horizon
+• Add new ideas around DailyBot
+• Send slack submission",No
+2025-07-10T08:15:00-05:00,🤖 Daily Stand-up,Catalina Castro,No,"• DailyBot meeting talk with team
+• Was working on QA Linear and Chatbot Agent, mainly Jira
+• Jonas Web Performance finish meeting 
+• 1:1 with Mauricio 
+• Synced with Oscar about Jira issues and pending tasks for this week 
+• Was working on import users and configure checkins for a client","• Meeting with Jonathan S about improving backend for Team Reports
+• 1:1 Oscar, Santiago
+• Growth and Product sync meeting 
+• Work on design the Team reports feature
+• Sync with Andres the progress on invitation vs accepted metrics",No
+2025-07-10T03:46:49-05:00,🤖 Daily Stand-up,Andrés Prieto,No,"Completed :white_check_mark:
+• Reviewed metrics docs and code
+• Reviewed Editor in each platform and got insight about how to implement channel also reduced scope to stabilize that feature
+• Fixed mentions first iteration adding full support for Slack and Discord, need another iteration for MS Teams and GChat, also reviewed how to add channels, looks easy, this feature is ready to deploy
+• Changed delivery channel for discount message
+• Attended to Web performance meeting
+• Sync to check fixtures for E2E
+• Sync - DailyBot talks
+• Reviewed Jonas insights about web performance and suggested some tools to keep that up
+Delayed :hourglass_flowing_sand:
+• Deployment of standarization of ESLint Prettier","Main :dart:
+• Dive in metrics",no
+2025-07-09T09:16:38-05:00,🤖 Daily Stand-up,Santiago Zapata,No,"• Review the apostrophes release by Andrés.
+ • Confirm with Andrés if he will push the pending changes for the emojis and tags release.
+ • Follow up on the pending release for the Sentry error (waiting on John’s check).
+ • Follow up with Oscar on the case about multiple check-ins being penalized when one fails.
+ • Follow up with Yisus on the copy update for the Labs release (removing the { } from the chatbot).
+ • Review the workflow error assigned to Andrés.
+ • Test the release the team just pushed to QA.
+ • Run end-to-end tests.
+ • Sync with the team on proposed improvements.","Review support cases 
+Support team initiatives 
+Finish launching Andres releases 
+Finish emoji releases",No
+2025-07-09T09:09:41-05:00,🤖 Daily Stand-up,John Darwin Morales,No,"Product:
+- It wasn't my priority yesterday. I have been reviewing issues about security.
+
+Security:
+- I reviewed the policy documents and I left 3 documents to review.","Product:
+- I'm going to continue invitation flow for workspace members and external users. I hope to push the code into dev
+
+Security:
+- I'll upload the reviewed documents in Vanta.",no
+2025-07-09T09:02:04-05:00,🤖 Daily Stand-up,Sebastián Mora,No,"Sync with Jonathan about agent migration
+Release the agent improvements
+Sync with Horizon about research (Tech approach)
+Prepare presentation for DailyBot Talks","Sync with team about pycon 2025
+Jonas meet about web improvements
+Continue working on research agent for DailyBot
+Push to release the code of agents",no
+2025-07-09T08:59:11-05:00,🤖 Daily Stand-up,Sergio Florez,No,"• Prepare prerelease about group chats for msteams and release the progress to staging
+• Tech research ideas with Horizon
+• Help JOhn to review security documents on vanta","• Prepare prerelease about group chats for msteams and release the progress to staging
+• Tech talks with team to talk about pycon
+• Help JOhn to review security documents on vanta
+• Sync with jonathan alvarez about the changes made for the web performance",No
+2025-07-09T08:13:31-05:00,🤖 Daily Stand-up,Carolina Marulanda,No,"• Tech research ideas
+• To deepen in the research agent as a product idea.
+• horizon meeting","• Explore DailyBot metrics
+• Plan dailybot user research
+• Explore horizon ideas around Dailybot",No
+2025-07-09T08:00:00-05:00,🤖 Daily Stand-up,Andrés Prieto,No,"Completed ✅
+• Reviewed approach for metrics
+• Pushed editor deployment, adding some restrictions (Need to check how to fix tags)
+• Completed pair QA for&nbsp https://linear.app/dailybot/issue/CORE-240/refactor-standardize-string-formatting-in-localization-files
+• Started checking code of E2E
+Delayed&nbsp:hourglass_flowing_sand:&nbsp
+• Check fix for Sentry issues with GSuit","In progress :construction:
+• Fixes to deploy mentions first iteration
+Main :dart:
+• Deploy editor mentions
+• Change delivery channel for discount message
+• Start implementing metrics",no
+2025-07-09T00:00:10-05:00,🤖 Daily Stand-up,Catalina Castro,No,"• Did QA about Jira integration, but that doesn't works as expected. Needs help from Sebastian.
+• Watch video with feedback about Team Reports feature
+• Understand the approach for invitation sent vs accepted with Andres. I left comments.","• Sync with Alex to understand the next steps in metrics about churn behavior
+• Finish details for Linear and Automatic Reports releases
+• Work on the plan for Team Reports, based on user feedback",no
+2025-07-08T08:59:15-05:00,🤖 Daily Stand-up,Sergio Florez,No,"• Focus on group chats for msteams
+• Meeting with team to discuss about sentry errors
+• Core planning meeting","• Focus on group chats for msteams
+• Tech research ideas with Horizon
+• Help JOhn to review security documents on vanta",No
+2025-07-08T08:58:19-05:00,🤖 Daily Stand-up,John Darwin Morales,Yes,"Product:
+- I have been implementing the invitation flow but I have been working intermittently.
+- It's pending the feedback to join members into a check-in.
+
+Security:
+- I need to review the policies. We have a deadline for 10 July","Product:
+- I'm adjusting the invitation flow for workspace and external users. I'm going to release to dev the changes to test it.
+
+Security:
+- I'm going to update the policy documents. It's required to review until July 10th. (It's high priority)","Guys, @santiago @catalina
+I am concerned about the documents that need to be updated. I have been reviewing them, but we have a deadline of July 10th, and we're currently undergoing an audit process. I want to prevent any issues related to this, so I will prioritize this task."
+2025-07-08T08:47:23-05:00,🤖 Daily Stand-up,Oscar Marin Molina,No,":card_index_dividers: Meeting about Sentry issues
+:busts_in_silhouette: Meeting with the core team
+:memo: Review of tasks for the cycle
+:computer: Focused work on the VSCode extension","'- :computer: Work on the VSCode extension
+- :mega: Show progress to the tech team
+- :card_index_dividers: Share API changes with Sergio for review
+- :mag_right: Research information for the VSCode store
+- :memo: Send report to Catalina",No
+2025-07-08T08:35:26-05:00,🤖 Daily Stand-up,Catalina Castro,No,"• Work on Core focus week
+• Final data for churn behavior 
+• Weekly Growth meeting
+• QA final details for summary x teams, sync with David","• QA Jira
+• Finish details for Linear and Automatic Reports releases
+• Sync with Alex to understand the next steps in metrics about churn behavior
+• Understand the approach for invitation sent vs accepted with Andres
+• QA UX / UI invitation members",No
+2025-07-08T08:32:06-05:00,🤖 Daily Stand-up,Jesus Rivera,No,"I reviewed a last thing related to summary of checkins responses. Move to continue building a doc with final insights of research, after test some tools or APIs","Present report of research.
+Start to work on a simple use case around data enrichment.
+Include and additional fix into release of linear.",No
+2025-07-08T08:27:42-05:00,🤖 Daily Stand-up,Santiago Zapata,No,"• Review the apostrophes release by Andrés.
+ • Confirm with Andrés if he will push the pending changes for the emojis and tags release.
+ • Follow up on the pending release for the Sentry error (waiting on John’s check).
+ • Follow up with Oscar on the case about multiple check-ins being penalized when one fails.
+ • Follow up with Yisus on the copy update for the Labs release (removing the { } from the chatbot).
+ • Review the workflow error assigned to Andrés.
+ • Test the release the team just pushed to QA.
+ • Run end-to-end tests.
+ • Sync with the team on proposed improvements.","• Run playwRigth tests
+• finish checking Andres releases
+• Check emoji releases
+• Check amplitude events
+• QA session On the web commercial app",No
+2025-07-08T08:26:59-05:00,🤖 Daily Stand-up,Carolina Marulanda,No,"• continue researching about research agent
+• Read suggested articles 
+• search YC ideas","• Tech research ideas
+• To deepen in the research agent as a product idea.
+• Continue searching ideas",No
+2025-07-08T08:00:50-05:00,🤖 Daily Stand-up,Sebastián Mora,No,"Reviewing Jira QA
+Working on research of agents","Sync with Jonathan about agent migration
+Release the agent improvements
+Sync with Horizon about research (Tech approach)
+Prepare presentation for DailyBot Talks",no
+2025-07-08T08:00:00-05:00,🤖 Daily Stand-up,Andrés Prieto,No,"Completed ✅
+• Sentry weekly meeting
+• Core weekly meeting
+• Fixed weird bug in workflows
+• Asked about approach for metrics and reviewed video from Cata & Sergio
+• Checked editor & instead of adding a sanitizer for editor parser on checkins load, reviewed editor, it was working by my side, so don't considered necessary to add that sanitizer
+Delayed&nbsp:hourglass_flowing_sand:&nbsp
+• Start with E2E project analyzing
+• Check fix for Sentry issues with GSuit","In progress :construction:
+• Checking E2E repository looking for fixture solution
+Main :dart:
+• Start implementing&nbsp https://dailybothq.slack.com/archives/C083FFKTM5Z/p1751930040662359
+• Push deployment for&nbsp https://linear.app/dailybot/issue/CORE-267/feature-invokes-people-enchanting-dtiptap-editor
+• Continue with E2E project
+Secondary&nbsp:pushpin:
+• Pair QA for&nbsp https://linear.app/dailybot/issue/CORE-240/refactor-standardize-string-formatting-in-localization-files
+    ◦ Check fix for Sentry issues with GSuit",no
+2025-07-07T09:37:10-05:00,🤖 Daily Stand-up,John Darwin Morales,Yes,"Product:
+- I have been creating the component to search new members from workspace. I have refactored the code to support analytics and sentry errors in the composition API.
+- 1:1 Cata","Product:
+- I'm going to finish the implementation of invitation to external users.
+- It's pending the feedback to join members into a check-in.
+
+Security:
+- I need to review the policies. We have a deadline for 10 July
+
+Security:","We have a list of policies to review, and the due date is July 10th. I have been reviewing them, but I haven't been able to complete all of them."
+2025-07-07T09:17:43-05:00,🤖 Daily Stand-up,Jesus Rivera,No,"I was working on pros and cons aligned to the product of account manager, review an fine some products that achieve to do everything","I will review a last thing related to summary of checkins responses. Move to continue building a doc with final insights of research, after test some tools or APIs",No
+2025-07-07T09:00:01-05:00,🤖 Daily Stand-up,Sergio Florez,No,"• Work on get data exports required by Catalina and Growth to understand Organizations behaviours
+• I worked on group chats for msteams","• Focus on group chats for msteams
+• Meeting with team to discuss about sentry errors
+• Core planning meeting",No
+2025-07-07T08:51:22-05:00,🤖 Daily Stand-up,Sebastián Mora,No,"Working on the research of research product
+Building an prototype related
+Pushing for jira product","Reviewing Jira QA
+Working on research of agents",no
+2025-07-07T08:31:06-05:00,🤖 Daily Stand-up,Santiago Zapata,No,"review support cases
+test the missing releases of the team
+run the e2e
+Review the commercial Web App
+Finish testing andres releases for emojis and user taggs
+follow up the cases assigned to the core team","• Review the apostrophes release by Andrés.
+ • Confirm with Andrés if he will push the pending changes for the emojis and tags release.
+ • Follow up on the pending release for the Sentry error (waiting on John’s check).
+ • Follow up with Oscar on the case about multiple check-ins being penalized when one fails.
+ • Follow up with Yisus on the copy update for the Labs release (removing the { } from the chatbot).
+ • Review the workflow error assigned to Andrés.
+ • Test the release the team just pushed to QA.
+ • Run end-to-end tests.
+ • Sync with the team on proposed improvements.",No
+2025-07-07T08:23:54-05:00,🤖 Daily Stand-up,Andrés Prieto,No,"Completed ✅
+• Work in improvements request for tag / mention feature
+• Started analyzing metrics project
+Delayed&nbsp:hourglass_flowing_sand:&nbsp
+• Start with E2E project analyzing","Main :dart:
+• Sentry weekly meeting
+• Core weekly meeting
+• Fix weird bug in workflows
+• Ask about approach for metrics
+• Add sanitizer for Editor parser on checkins load
+Secondary&nbsp:pushpin:
+• Check fix for Sentry issues with GSuit",no
+2025-07-07T08:22:03-05:00,🤖 Daily Stand-up,Catalina Castro,No,"• Meeting with sensa
+• Quick sync about invitation logs with Sergi
+• John 1:1 meeting
+• Worked on get insights from exports about churn behavior","• Work on Core focus for this week
+• Work on final data from churn data
+• Weekly Core meeting 
+• Weekly Growth meeting
+• Final details reports x teams",No
+2025-07-07T08:21:58-05:00,🤖 Daily Stand-up,Oscar Marin Molina,No,"'- :technologist: Meeting with Mauricio (VSCode extension)
+- :technologist: Meeting with Sergio (VSCode extension)
+- :arrows_counterclockwise: Requested Bot staging restart
+- :hammer_and_wrench: Reuploaded fix for filtered check-ins in reminders
+- :test_tube: Ran a small test in staging
+- :bricks: Focused work on the VSCode extension",":card_index_dividers: Meeting about Sentry issues
+:handshake: Meeting with the core team
+:hammer_and_wrench: Work on the VSCode extension based on the meeting discussion
+:clipboard: Review weekly tasks
+:jigsaw: Work on my issues",No
+2025-07-07T08:21:35-05:00,🤖 Daily Stand-up,Carolina Marulanda,No,"• Sensa Sync 
+• Continue researching account manager
+• ideation session with Mau","• continue researching about research agent
+• Read suggested articles 
+• search YC ideas",No
+2025-07-04T08:59:53-05:00,🤖 Daily Stand-up,Sergio Florez,No,"• Release to live changes about headers for security policies
+• Finish the data export for growth
+• Start to work focus on group chats for msteams",• Focus on group chats for msteams,No
+2025-07-04T08:32:40-05:00,🤖 Daily Stand-up,John Darwin Morales,Yes,"Product:
+- I'm implementing the new invitation flow. I was blocked implementing the invitation via tags because the component we have doesn't support certain features. Therefore, I created a new one with the conditions we need.
+
+Security:
+- I have been monitoring Vanta, and I found that we are adding external users who do not have the domain @dailybot.com. As a result, I am deleting those users.","Product:
+- I'm creating a new component to search new members from workspace by email and name with tags. I though that we had this functionality but when I was reviewing no.
+- I'm going to finish the implementation of invitation to external users.
+- 1:1 with Cata
+
+Security:
+- I have some policies to review, but I'm going to spent time this weekend to review them. 
+- Also, I'm going to review the QA role.","I was blocked implementing the invitation via tags because the component we have doesn't support certain features. Therefore, I created a new one with the conditions we need."
+2025-07-04T08:30:46-05:00,🤖 Daily Stand-up,Carolina Marulanda,No,"• Account manager research
+• Support core with designs
+• Sync with Cata about core designs","• Sensa Sync 
+• Continue researching account manager
+• I have a medical appointment at 2pm",No
+2025-07-04T07:56:31-05:00,🤖 Daily Stand-up,Oscar Marin Molina,No,"'- :test_tube: Performed staging test for followups filtering in reminder (discovered a bug)
+- :hammer_and_wrench: Worked on the VSCode extension (focus)
+- :ladybug: Worked on a solution for the followups filtering bug in reminder
+- :rocket: Deployed the solution to staging","'- :telephone_receiver: Meeting with Mauricio to discuss the VSCode extension
+- :computer: Work on the VSCode extension
+- :ladybug: Review the bug for issue CORE-287
+- :wrench: Work on the bug for issue CORE-287",No
+2025-07-04T02:21:29-05:00,🤖 Daily Stand-up,Santiago Zapata,No,"support the support cases
+review what came in through amplitude
+finish testing the team's releases
+test new quality cases
+run the e2e","review support cases
+test the missing releases of the team
+run the e2e
+Review the commercial Web App
+Finish testing andres releases for emojis and user taggs
+follow up the cases assigned to the core team",No
+2025-07-04T02:17:56-05:00,🤖 Daily Stand-up,Catalina Castro,No,"• QA Linear, QA Jira
+• Product / Growth meeting sync with Albert
+• Quick sync with Caro / David about check-ins responses x team","• Meeting with Sensa about re branding process
+• 1-1 with John
+• Focus on pre alerts project
+• Invitation project with Andres, I'd like receive feedback from Sergio",No
+2025-07-03T10:40:05-05:00,🤖 Daily Stand-up,Oscar Marin Molina,No,"'- :card_index_dividers: Worked on filtering check-ins in the reminders
+- :white_check_mark: Ran codecheck to verify everything is fine
+- :test_tube: Created tests for this part
+- :rocket: Deployed to staging
+- :mag: Started reviewing the Dailybot extension for VSCode","'- :test_tube: Tests in staging for checkins filtering for reminders
+- :outbox_tray: Send checkins filtering for reminders to QA
+- :hammer_and_wrench: Work on Dailybot extension for VSCode",No
+2025-07-03T09:31:48-05:00,🤖 Daily Stand-up,Santiago Zapata,No,"Test and release pending team releases
+Call with Andres to define priorities
+Work on event releases in the web app
+Reviewing amplitude cases","support the support cases
+review what came in through amplitude
+finish testing the team's releases
+test new quality cases
+run the e2e",No
+2025-07-03T08:59:01-05:00,🤖 Daily Stand-up,Sergio Florez,No,"• Solve issue with headers on the webapp and security policies
+• Sync with Oscar about issues with Google chat
+• Finishing export required by Alex
+• Review investor updates","• Release to live changes about headers for security policies
+• Finish the data export for growth
+• Start to work focus on group chats for msteams",No
+2025-07-03T08:53:09-05:00,🤖 Daily Stand-up,Sebastián Mora,No,"Sync with Jonathan
+Continue with Horizon research
+Reviewing Jira issue","Working on the research of research product
+Building an prototype related
+Pushing for jira product",no
+2025-07-03T08:48:09-05:00,🤖 Daily Stand-up,John Darwin Morales,No,"Product:
+- I'm working in the invitation flow.
+- We made a call with the team to talk about E2E status and review the implementation of fixtures. I created a roadmap to complete the e2e tests. I left an update with all tasks to complete. Andrés and Santiago have the context about it.
+
+Security:
+- I made followup QA role. I was reading the new document shared by Catalina and Santiago. I'll review it deeply tomorrow.
+- Vanta revision","Product:
+- Full focus to finish the first release of new invitation flow.
+
+Security:
+- I'll continue reviewing the policies almost 1 more.
+- Vanta revision",no
+2025-07-03T08:44:57-05:00,🤖 Daily Stand-up,Jesus Rivera,No,"Release the migration of set time off command
+Last fixes linear migration.
+Research about scrapping","I'll will start to use scrap products, and align the research with the next product definition.
+Review pricing of products, pros & cons , and keep an eye over linear QA",No
+2025-07-03T08:34:02-05:00,🤖 Daily Stand-up,Catalina Castro,No,"• QA: linear, automatic reports without response, invokes people in web, drawer response to add activity
+• Customer journey map session, focused on Google Chat with Mere
+• Meeting with Jonas about Web performance project status 
+• Session meeting with Horizon to discuss new product idea
+• Work on MSTeams new amplitude dashboard based on the new onboarding events, and also I researched why the signups decreased. Left a report in growth channel","• Focus on Pre churn alerts project
+• Sync with Andres about Invitations metric project
+• 1:1 with John
+• Product and Growth alignment meeting
+• QA: linear, jira",No
+2025-07-03T08:23:42-05:00,🤖 Daily Stand-up,Carolina Marulanda,No,"• 1-1 Sebas
+• Horizon next project definition
+• Share feedback on logo proposal
+• Sync to share horizon idea with the team","• Account manager research 
+• Support core with designs
+• Sync with Cata about core designs",No
+2025-07-03T05:41:34-05:00,🤖 Daily Stand-up,Andrés Prieto,No,"Completed ✅
+• Fixed member issue for mention / tag feature
+• Made some fixes for Sentry issues with GSuit
+• Enchanted some features to complete mentions under format in DB
+• Started reviewing process for tag / mentions feature to include requested features","Main :dart:
+• Work in improvements request for tag / mention feature
+• Start with E2E project analyzing
+• Start analyzing metrics project",no
+2025-07-02T09:03:52-05:00,🤖 Daily Stand-up,John Darwin Morales,No,"Product:
+- I restarted with the markup of the new invitation flow.
+
+Security:
+- I made followup on the bug bounties. We solved one. One of them had a issue with the video evidence.
+- I have been reviewing the policies. I have left a comment about one of them.","Product:
+- I'm going to advance more in the new invitation flow.
+- Call with the team to talk about fixtures in the e2e tests.
+
+Security:
+- Followup QA role.
+- I'll continue reviewing the policies almost 2 more.",No
+2025-07-02T09:01:08-05:00,🤖 Daily Stand-up,Sergio Florez,No,"• Sensa Meeting
+• Finish the implementation for group chats on msteams
+• Sync with Horizon
+• Sync with Core team
+• Meeting with Alex and Catalina to review Metrics required by Growth","• Solve issue with headers on the webapp and security policies
+• Sync with Oscar about issues with Google chat
+• Finish export required by Alex
+• Review investor updates",No
+2025-07-02T08:57:46-05:00,🤖 Daily Stand-up,Catalina Castro,No,"• Sensa meeting
+• Discuss with Sergio about cycle
+• Weekly meeting with Core
+• Quick sync with Alex about demo sales
+• Growth weekly meeting
+• Session with Alex and Sergio to understand metrics and discuss pre churn alerts project
+• Prepared on feedback about branding
+• Left some notes about investor updates
+• Was thinking about checkins summaries x teams, to receive feedback","• QA linear
+• QA automatic reports without response
+• Work on pre churn alerts project, share questions and updates
+• Work on Core cycle doubts, definitions, new tasks
+• Meeting with Mere about Customer Journey
+• Meeting with Jonas about web performance
+• 1:1 meeting with Mauricio
+• Review invokes people by Andres
+• Review drawer activity by Oscar",No
+2025-07-02T08:55:12-05:00,🤖 Daily Stand-up,Jesus Rivera,No,"Review the release of time off command migration.
+Start research about research agent","Continue learning about research process first by myself to then automate it.
+Release the migration of set time off command",No
+2025-07-02T08:53:18-05:00,🤖 Daily Stand-up,Sebastián Mora,No,"Solving the jira issues in staging 
+Sync with Caro to check next steps in Horizon","Sync with Jonathan
+Continue with Horizon research
+Reviewing Jira issue",no
+2025-07-02T08:49:04-05:00,🤖 Daily Stand-up,Carolina Marulanda,No,"• Sensa sync
+• 1-1 Mau
+• Continue defining horizon ideas
+• Syntro ReQA","• 1-1 Sebas
+• Horizon next project definition
+• Share feedback on logo proposal
+• To deepen in the proposals of ideas for horizon",No
+2025-07-02T08:47:21-05:00,🤖 Daily Stand-up,Santiago Zapata,No,"Meeting with the Core team 
+Define priorities for the week 
+Support the team with pre-releases 
+Test pending support cases","Test and release pending team releases 
+Call with Andres to define priorities 
+Work on event releases in the web app 
+Reviewing amplitude cases",No
+2025-07-02T00:45:20-05:00,🤖 Daily Stand-up,Andrés Prieto,No,"Completed ✅
+• Core weekly meeting
+• Improved mention feature
+• Started debugging sentry issues related with G-Suit","Main :dart:
+• Fix `{""ok"":false,""detail"":""['“U08KYRJBFME” is not a valid UUID.']""}`&nbspissue that recently jumped in Sentry, to deploy mention feature. Ref:&nbsphttps://dailybot-inc.sentry.io/issues/6721189239/?alert_rule_id=9605578&alert_type=issue&notification_uuid=c027aecc-c952-40cc-9961-110411da7fb1&project=6082461&referrer=slack
+• Continue with Sentry issues related to G-Suit",no
+2025-07-01T09:25:03-05:00,🤖 Daily Stand-up,Catalina Castro,No,"• Meeting with all team
+• QA time off command
+• Tried QA Jira integration, I detected feature works very bad in staging. Sebas will review","• 09:00 AM - 09:45 AM - Sensa + Dailybot
+• 10:00 AM - 11:00 AM - Discuss cycle for Core with ""Sergio Florez (@xergioalex)""
+• 11:00 AM - 12:00 PM - Weekly Sync - Core team
+• 02:30 PM - 03:30 PM - Growth Weekly Meeting
+• Work on a report for ""how did you find us"" only for paid orgs
+• Work on a document with questions about add-ons usage
+• Work on amplitude dashboard for new msteams onboarding",No
+2025-07-01T09:01:56-05:00,🤖 Daily Stand-up,Jesus Rivera,No,"I was working on command of set time off issues, additional work on some upgrades to Syntro. And review and implement a last thing on linear integration","Review the release of time off command migration. 
+Review QA of linear integration
+Continue on horizont research",No
+2025-07-01T08:59:20-05:00,🤖 Daily Stand-up,Sergio Florez,No,"• Sent a message to Microsoft Teams about the issue with message extension, I will propose remove the compose extensions from our application to avoid this issues
+• Make a progress with the implementation for chatbot support for group chats on msteams
+• Horizon sync to vote about new ides
+• Help growth to get new data exports","• Sensa Meeting
+• Finish the implementation for group chats on msteams
+• Sync with Horizon
+• Sync with Core team",No
+2025-07-01T08:53:17-05:00,🤖 Daily Stand-up,Oscar Marin Molina,No,"'- :hammer_and_wrench: Worked on daily reminders
+- :white_check_mark: Conducted live tests on daily analytics
+- :rocket: Deployed fix for division by zero in daily summary to live
+- :mag_right: Reviewed Jira integration
+- :package: Deployed response drawer changes to staging for review
+- :books: Studied Cursor and its implementation in Dailybot","'- :handshake: Meeting with the core team
+- :busts_in_silhouette: Meeting with Sergio to review errors in Gmail account
+- :test_tube: Final testing of daily reminders
+- :outbox_tray: Send daily reminders fix to QA",No
+2025-07-01T08:52:22-05:00,🤖 Daily Stand-up,Sebastián Mora,No,"Sync with Horizon
+Reviewing the QA of agent
+Continue with syntro issues","Solving the jira issues in staging 
+Sync with Caro to check next steps in Horizon",no
+2025-07-01T08:51:55-05:00,🤖 Daily Stand-up,John Darwin Morales,No,"Product:
+- I continued with the new invitation flow. 
+
+Security:
+- We prepared the Laura's Offboarding process during the day.
+- We finished the form responses regarding audit. And then the form was submitted.","Product:
+- I'm going to continue with the markup of new invitation flow 
+
+
+Security:
+- Followup on the bug bounties reports.
+- I need to review the document policies this week
+- Followup QA role",no
+2025-07-01T08:42:14-05:00,🤖 Daily Stand-up,Santiago Zapata,No,"We finished reviewing the pre-release cases 
+We met at the office 
+We review Amplitude cases 
+We review support cases","Meeting with the Core team 
+Define priorities for the week 
+Support the team with pre-releases 
+Test pending support cases",No
+2025-07-01T08:21:17-05:00,🤖 Daily Stand-up,Carolina Marulanda,No,"• horizon bainstorming - voting
+• Goodbye call Laura
+• Work on horizon ideas","• Sensa sync
+• 1-1 Mau
+• Continue defining horizon ideas",No
+2025-07-01T00:18:51-05:00,🤖 Daily Stand-up,Andrés Prieto,No,"Completed ✅
+• Fixed support case
+• Fixed some sentry issues
+• Checkins Sentry looking for bugs
+• Fixed refactor in ESLint/Prettier
+• Fixed some vulnerabilities in in packages
+• Made some refactors following scout principle
+• Create a new feature to add mentions in checkins","Main :dart:
+• Core weekly sync
+• Ask Cata for new tasks
+• Keep checkins sentry",no
+2025-06-30T22:39:59-05:00,🤖 Daily Stand-up,Andrés Prieto,No,"Completed ✅
+• Fixed support case
+• Fixed some sentry issues
+• Checkins Sentry looking for bugs
+• Fixed refactor in ESLint/Prettier
+• Fixed some vulnerabilities in in packages
+• Made some refactors following scout principle
+• Create a new feature to add mentions in checkins","Main :dart:
+• Core weekly sync
+• Ask Cata for new tasks
+• Keep checkins sentry",no
+2025-06-27T10:40:29-05:00,🤖 Daily Stand-up,Sergio Florez,No,"• Make a progress with the implementation for chatbot support for group chats on msteams
+• Sync with Oscar to review issues with google chat api for send messages
+• Sync with John about the changes released yesterday for security
+• Review msteams extensions issue","• Sent a message to Microsoft Teams about the issue with message extension, I will propose remove the compose extensions from our application to avoid this issues
+• Make a progress with the implementation for chatbot support for group chats on msteams
+• Horizon sync to vote about new ides
+• Help growth to get new data exports",No
+2025-06-27T08:56:32-05:00,🤖 Daily Stand-up,Santiago Zapata,No,"Review support cases
+Product initiatives
+Review breadth events
+Review new prs generated by the team
+Release Andres from releases","Review support cases 
+Finish testing pending releases 
+Release new cases 
+Review Amplitude metrics 
+Get everything ready for the weekend",No
+2025-06-27T08:52:12-05:00,🤖 Daily Stand-up,Jesus Rivera,No,Full work on Syntro issues,"I will resume command migration after end copy upgrades on Syntro, and then participate of kind of robotic hackathon",No
+2025-06-27T08:37:59-05:00,🤖 Daily Stand-up,Sebastián Mora,No,"Sync with Horizon
+Continue with Horizon
+* Solving the jira tasks left by Caro about Syntro
+Reviewing how the QA of agent is going","Sync with Horizon
+Reviewing the QA of agent
+Continue with syntro issues",no
+2025-06-27T08:06:09-05:00,🤖 Daily Stand-up,Andrés Prieto,No,"Completed ✅ 
+- Fixed issue with ZenDesk in Sentry issue
+- Fixed issue with workflows found while solving a Sentry issue
+- Fixed Sentry issue related to update process
+- Deployed a couple of releases
+- Started support case
+- Worked a bit in invoke feature","In progress :construction:
+- Deploy missing releases
+
+Main :dart: 
+- Work in support case",no
+2025-06-27T07:46:06-05:00,🤖 Daily Stand-up,John Darwin Morales,No,"Product:
+- New flow to invite members: I reviewed again the flow, left some comments to the team and I decided a deadline and workflow to complete this.
+- Pre-release reviewing.
+
+Security:
+- Offboarding process.
+- I was reviewing the bug bounties reported the last week. I left the responses to the researcher on each one. 
+- I made follow up to the audit form. it's missing only the last review of Mauricio.","Product:
+- I will continue with the new invitation flow and markup the modal.
+Security:
+- Offboarding process during the day.
+- I need to review almost one policy document.
+- I hope to submit the responses regarding the audit form. They have been waiting for this for a little over a",no
+2025-06-27T07:40:04-05:00,🤖 Daily Stand-up,Carolina Marulanda,No,"• horizon brainstorming
+• 1-1 Yisus
+• core support with design
+• Work on syntro copy and improvements","• horizon bainstorming - voting
+• Goodbye call Laura
+• Work on horizon ideas",No
+2025-06-27T01:39:56-05:00,🤖 Daily Stand-up,Catalina Castro,No,"• Meeting with Horizon about new ideas
+• Product sync with Albert about Growth / Product
+• Synced with Oscar about Jira and Drawer tasks
+• Quick sync with Sergio and Alex to set up the data population the product demos orgs
+• Give feedback to Laura about UX members improvements
+• Worked on a document for the quality review of the chatbot agent changes and recorded videos with explanation for Santiago
+• Worked on a document about pre alerts and notifications project","• Horizon brainstorming, voting ideas
+• Work on the QA for Jira amplitude events
+• Work on a report for ""how did you find us"" only for paid orgs
+• Work on a document with questions about add-ons usage
+• Work on amplitude dashboard for new msteams onboarding",No
+2025-06-26T08:57:02-05:00,🤖 Daily Stand-up,Santiago Zapata,No,"Review support cases
+Product initiatives
+Review breadth events
+Review new prs generated by the team
+Release Andres from releases","finish uploading team releases
+test new Qa cases for live
+Finish andres releases
+Run playwRigth tests
+Prioritize support cases",No
+2025-06-26T08:55:18-05:00,🤖 Daily Stand-up,Catalina Castro,No,"• 09:00 AM - 10:00 AM - Sync with Andres/David about mailtron registration issue
+• 10:30 AM - 11:00 AM - 1-1 SantiagoZ/Cata
+• 02:30 PM - 03:00 PM - 1-1 Cata - Caro
+• 03:30 PM - 04:00 PM - 1:1 Catalina/Mauricio
+• Feedback to Laura about UX member's improvements
+• Sync with Alex, about product demos","• Meeting with Horizon about new ideas
+• Meeting with Jonas about web performance project
+• Product sync with Albert about Growth / Product
+• Sync with Oscar about Jira and Drawer tasks
+• Work on a document with questions about add-ons usage
+• Work on a document about pre alerts and notifications project
+• Work on a report for ""how did you find us"" only for paid orgs",No
+2025-06-26T08:51:57-05:00,🤖 Daily Stand-up,Sebastián Mora,No,"Sync with Jonathan
+Continue with Agent 
+Push for release the new migration
+Left agent in QA","Sync with Horizon
+Continue with Horizon
+* Solving the jira tasks left by Caro about Syntro
+Reviewing how the QA of agent is going",no
+2025-06-26T08:51:23-05:00,🤖 Daily Stand-up,John Darwin Morales,Yes,"Product:
+- I have been reviewing the issue about Github Student Pack and we have bug there to solve. So I shared to the team the priority of this issue.
+- I started to review the new flow to invite members. I created a functionality to enable functionalities locally to prevent the creation of a feature in the backoffice that it couldn't be deleted in the future.
+- I reviewed some pull request reported by the team.
+
+Security:
+- I completed the form regarding audit today. I'm waiting for the approval by the security team. 
+- We started with the offboarding of Laura.","Product:
+- I'm going to implement the markup of the new modal to invite members.
+
+Security:
+- I have pending to response the bug bounties reported during the last days. So i need to review them
+- I'm going to start the reviewing of policies. 
+- Followup of the definition QA role.","I don't know if we can make progress with the e2e fixtures today. I need to attend to other priority tasks, mainly security."
+2025-06-26T08:23:03-05:00,🤖 Daily Stand-up,Carolina Marulanda,No,"• 1-1 cata
+• Problem spaces research
+• Prioritize Syntro improvements in linear","• horizon brainstorming
+• 1-1 Yisus
+• Sync with Cata about core support
+• Work on horizon ideas",No
+2025-06-26T08:14:51-05:00,🤖 Daily Stand-up,Jesus Rivera,No,"I worked on migration of set time off command to the chatbot
+Implement the pages of linear, review a new issue related to admin grants on linear integration.
+Bring a hand with a bug with sequences of mailtron to Andres & Cata","I'll be working full time on Syntro
+Sync with Caro
+Horizont Brain storming",No
+2025-06-26T03:48:14-05:00,🤖 Daily Stand-up,Andrés Prieto,No,"Completed
+- Sync - Mailtron
+- Deployed workflows post-release
+- Fixed mailtron sequence
+- Fixed the formatter aka codecheck","In progress :construction:
+- Check issue with ZenDesk in Sentry issue
+
+Main :dart:
+- Sync - Performance project 
+- Deploy missing releases",no
+2025-06-25T09:22:33-05:00,🤖 Daily Stand-up,Catalina Castro,No,"• 09:00 AM - 09:45 AM - Sensa + Dailybot (rebranding project)
+• 10:30 AM - 11:30 AM - Weekly Sync - Core team
+• 02:30 PM - 03:30 PM - Growth Weekly Meeting
+• 04:00 PM - 05:00 PM - Sync initiatives with Sebas / David for this week
+• QA drag and drop check, we released this yesterday, and we notified to Mere, to notify Miles","• 09:00 AM - 10:00 AM - Sync with Andres/David about mailtron registration issue
+• 10:30 AM - 11:00 AM - 1-1 SantiagoZ/Cata
+• 02:30 PM - 03:00 PM - 1-1 Cata - Caro
+• 03:30 PM - 04:00 PM - 1:1 Catalina/Mauricio
+• Sync with Oscar about Jira issues
+• Sync with Laura about UX member's improvements
+• Work on a document with questions about addons usage
+• Sync with Alex, about product demos",No
+2025-06-25T09:06:38-05:00,🤖 Daily Stand-up,Sebastián Mora,No,"Meeting with Jonathan
+Continue working on agent","Sync with Jonathan
+Continue with Agent 
+Push for release the new migration
+Left agent in QA",no
+2025-06-25T09:00:02-05:00,🤖 Daily Stand-up,Jesus Rivera,No,"I fixed a support case
+Continue with missing improvemnt on syntro
+Then I resume the issue on activity report upgrade","I will be working on UX on linear integration
+And I'll be migrating time off command",No
+2025-06-25T08:59:40-05:00,🤖 Daily Stand-up,John Darwin Morales,Yes,"Product:
+- It released the issue related with the plan name in billing info and checkout process. 
+- Call with the team to define priorities.
+- Review of some pull requests.
+
+Security:
+- I have been filling out the form about audit. This one has 29 questions. 
+- One of bug bounties has been re-reviewed to be payed due to its classification.","Product:
+- I have been reviewing the issue about Github Student Pack and we have bug there to solve. 
+- I'm going to review the flow and start with it.
+- Review pull-requests.
+
+Security:
+- I must complete the form regarding audit today.","'@cata I have a new card to complete about security:
+I'm working on it: https://linear.app/dailybot/issue/CORE-239/fill-out-the-form-about-the-new-audit-window
+
+We need to start to define the QA role to be prepared for the audit: https://linear.app/dailybot/issue/CORE-202/define-the-qa-role-first-session
+
+@xergioalex I have changed the priority in this card. I left a comment about it: https://linear.app/dailybot/issue/CORE-225/review-the-functionality-to-redeem-github-student-pack"
+2025-06-25T08:57:59-05:00,🤖 Daily Stand-up,Sergio Florez,No,"• Sensa + DailyBot Meet
+• Help security team to review security bug bounties
+• Help John to fill out security report for insight
+• Focus on work on improve group chats for msteams","• Implement chatbot support for group chats on msteams
+• Sync with Oscar to review issues with google chat api for send messages
+• Sync with John about the changes released yesterday for security
+• Review msteams extensions issue",No
+2025-06-25T08:56:08-05:00,🤖 Daily Stand-up,Santiago Zapata,No,"Core team call
+define projects for the week
+review initiatives
+check status of all playwRigth tests we have
+fix bugs reported over the weekend
+review the releases generated by the team over the weekend","Review support cases 
+Product initiatives 
+Review breadth events 
+Review new prs generated by the team 
+Release Andres from releases",No
+2025-06-25T07:38:30-05:00,🤖 Daily Stand-up,Carolina Marulanda,No,"• Sync with Sensa
+• Sync with Albert about horizon ideas
+• Prioritize Syntro improvements","• 1-1 cata
+• Problem spaces research",No
+2025-06-25T00:53:42-05:00,🤖 Daily Stand-up,Andrés Prieto,No,"Completed :white_check_mark:
+- Deployed drag and drop feature
+- Deployed kudos improvements for accessibility and a bit of performance 
+- Found some issue with translations and difference between ‘ and “, we need to standarize this
+- Refactored approach for Sentry issue for previous week
+- Checked Sentry looking for possible issue related to workflows new features (Didn’t found any)","In progress :construction:
+- Getting mailtron issue in the sequence 
+- Fixing formatter
+
+Main :dart:
+- Work in workflows post-release
+- Fix mailtron sequence
+
+Secondary :pushpin:
+- Fix formatter",no
+2025-06-24T08:59:51-05:00,🤖 Daily Stand-up,Sebastián Mora,No,"Sync with Jonathan about chatbot agent
+Continue migration the chatbot agent
+Sync with Horizon (Hackathon)
+Robotic Session","Meeting with Jonathan
+Continue working on agent",no
+2025-06-24T08:59:39-05:00,🤖 Daily Stand-up,Sergio Florez,No,"• I solved the issue with gmail accounts and the multidomain missconfiguration on google chat.
+• Help John to review the security form required by insight
+• Go to Social & Co to meet with horizon team","• Sensa + DailyBot Meet
+• Help security team to review security bug bounties
+• Help John to fill out security report for insight
+• Focus on work on improve group chats for msteams",No
+2025-06-24T08:59:12-05:00,🤖 Daily Stand-up,John Darwin Morales,Yes,"Security:
+- I was reviewing the form sent by the auditors, but I haven't completed yet. It's missing a question.
+- I did follow up on some bug bounties reported and I shared with mere the responses.
+
+Product:
+- I was reviewing the sentry issues reported
+- Pull request reviewing
+- 1:1 with Cata
+- I fixed the issue with the translations of plan name.
+- I was trying to run the e2e tests, but they aren't working.","Product:
+- I'll release the issue with the plan name
+- I'm going to review the improvements to invite people to the org.
+- Review of some pull requests
+
+Security:
+- I need to fill out the form about audit today, It's a mandatory complete it.
+- I'll review some bug bounties reported","I started to fill out the form sent by the auditors, but I need help to complete one question. Here is the document and the thread where I was sharing it with the team.
+
+Document: https://docs.google.com/document/d/1fC6ttZmNGXV0R8zsbW63koin4-wE5Bgg2rqTLnAts5U/edit?tab=t.0#heading=h.r90uns9bark3
+Thread: https://dailybothq.slack.com/archives/C033TTJV28H/p1750359209287209"
+2025-06-24T08:57:22-05:00,🤖 Daily Stand-up,Santiago Zapata,No,"Close the week by reviewing all quality streams
+Review rare product flows
+Upload a large part of the Playwrigth tests.
+Fix Quality errors","Core team call
+define projects for the week
+review initiatives
+check status of all playwRigth tests we have
+fix bugs reported over the weekend
+review the releases generated by the team over the weekend",No
+2025-06-24T08:44:35-05:00,🤖 Daily Stand-up,Andrés Prieto,No,"Completed :white_check_mark:
+• Fixed network issue with empty fields in drag and drop proposal
+• Completed kudos improvements, also identified several cases in which we could improve network load reducing possible DDoS possible sources & general web performance, but some help from UX/UI might be required
+• Completed check over weird issue with weird email + Sentry
+• Checked Sentry some bugs issue for this week, didn't select any waiting for Sentry weekly meeting
+• Continued with debugging in onboarding emails sequence, haven't being fixed yet, but got some ideas
+• Analyzed new errors attached to my work stack related with known workflows issues / Tech deb, prioritizing some tasks then","In progress :construction:
+• Debugging onboarding sequence
+Main :dart:
+• Core weekly meeting
+• Complete onboarding bug fix
+Secondary :pushpin:
+• Start workflows fixes",no
+2025-06-24T08:33:10-05:00,🤖 Daily Stand-up,Carolina Marulanda,No,"• Sync with Sebas
+• Review proposals to horizon
+• Horizon live meet","• Sync with Sensa
+• Sync with Albert about horizon ideas
+• Prioritize Syntro improvements",No
+2025-06-24T08:02:01-05:00,🤖 Daily Stand-up,Jesus Rivera,No,"I released some fixes an improvements on syntro, I kept working on a issue on the sent activity reports
+And participate on few meetings","I'll be fixing a support case
+Continue with a missing improvemnt on syntro
+Then I'll resume the issue on activity report upgrade",No
+2025-06-24T08:00:00-05:00,🤖 Daily Stand-up,Catalina Castro,No,"• 09:00 AM - 10:00 AM - Horizon brainstorming
+• Sync with Andres to discuss about Drag and Drop changes
+• 11:00 AM - 12:00 PM - Product – Growth Alignment Sync with Albert
+• 02:30 PM - 03:00 PM - 1:1 Oscar/Catalina
+• QA chatbot agent
+• Help Alex running questions in Perplexity
+• QA amplitude events in Jira integration","• 09:00 AM - 09:45 AM - Sensa + Dailybot
+• 10:00 AM - 11:00 AM - Weekly Sync - Core team
+• 02:30 PM - 03:30 PM - Growth Weekly Meeting",No
+2025-06-23T08:50:30-05:00,🤖 Daily Stand-up,Andrés Prieto,No,"Completed :white_check_mark:
+• Deployed workflows project, all releases and fixes
+• Completed some improvements for drag and drop checkin release
+• Checked issue with weird email, it didn't seem to be something related to security issues, but I would like to check this a bit more
+• Checked onboarding mailtron sequence again, looking for failure point in sequence
+• Started checking Sentry weekly issue (This one was the source or was related to some other)","In progress :construction:
+• Fixing network issue with empty fields in drag and drop proposal
+• Kudos improvement
+Main :dart:
+• Deploy drag and drop proposal
+• Debug onboarding emails sequence
+• Continue checking issue with weird email
+Secondary :pushpin:
+• Check Sentry bug issue for this week
+• Continue with kudos improvement",no
+2025-06-22T08:00:00-05:00,🤖 Daily Stand-up,Oscar Marin Molina,No,TESTING,TESTING,no
+2025-06-21T08:00:00-05:00,🤖 Daily Stand-up,Oscar Marin Molina,No,TESTING,TESTING,no
+2025-06-20T09:13:39-05:00,🤖 Daily Stand-up,Sergio Florez,No,"• Meeting with horizon team to make a brainstorming
+• Focus on review a critical issue with onboarding on hangouts
+• Review the work required by Group Chats for MSTeams","• Continue working on solving issues with multidomain on hangouts chat. Yesterday I deleted more than 1000 organizations, but this issue it’s complex to solve and debug because on local environment we can’t use gmail accounts.
+• Help John to review the security form required by insight
+• Go to Social & Co to meet with horizon team",No
+2025-06-20T09:10:04-05:00,🤖 Daily Stand-up,John Darwin Morales,No,"Security:
+- I shared with Sergio the action report, but It's missing to apply the policy to prevent malicious behaviour.
+- The auditors sent us the form to fill out. We're going to start a new audit process soon. 
+
+Product:
+- Pull request reviewing.
+- I was reviewing various support cards in triage. I gave some responses to the users and one card was reassigned.
+- I checked the severity of this issue and it was accepted into the cycle to review. I have added some loggers to understand what's happening: https://linear.app/dailybot/issue/CORE-134/discord-onboarding-error-invite-members-from-platform.","Security:
+- We're going to fill out the form sent by the auditors. And write to the auditors.
+- Followup to some bug bounties reported. And fill out the form to pay them.
+
+Product:
+- I'm going to deploy the changes regarding to invite members to Discord.
+- I'll continue reviewing the sentry issues for the cycle.",no
+2025-06-20T08:48:29-05:00,🤖 Daily Stand-up,Catalina Castro,No,"• Horizon brainstorming meeting
+• Product growth meeting with Albert
+• 1:1 meeting with Oscar
+• Sync with Andres about drag and drop
+• QA workflows UX, I reported some cases to Andres
+• QA Jira in staging, and it’s not working
+• Helped Alex running query on Perplexity","• 1-1 meeting with John 
+• Meeting with Laura and John about UX members
+• QA chatbot agent
+• QA drag and drop + Workflows UX improvements",No
+2025-06-20T08:42:09-05:00,🤖 Daily Stand-up,Sebastián Mora,No,"Meet with Horizon (Brainstorming)
+Solving the agent issues and continue for pushing for live","Sync with Jonathan about chatbot agent
+Continue migration the chatbot agent
+Sync with Horizon (Hackathon)
+Robotic Session",no
+2025-06-20T08:41:19-05:00,🤖 Daily Stand-up,Santiago Zapata,No,"We review support cases 
+We released all team releases 
+We were fully focused on the Playwrigth tests. 
+Finished reviewing the flows pending approval","Close the week by reviewing all quality streams 
+Review rare product flows 
+Upload a large part of the Playwrigth tests. 
+Fix Quality errors",No
+2025-06-20T08:20:38-05:00,🤖 Daily Stand-up,Carolina Marulanda,No,"• Horizon brainstorming
+• Filter horizon ideas to define the approach
+• Sync with Mau
+• Sync with Albert
+• Sync with Yisus and Albert","• Demo day
+• Sync with Sebas 
+• Review proposals to horizon
+• I have a medical appointment at 9:20am",No
+2025-06-20T03:36:49-05:00,🤖 Daily Stand-up,Andrés Prieto,No,"Completed :white_check_mark:
+• Fixed time off UI
+• Fixed issues related to code review for workflows project
+• Fixed issues related to Cata request
+• Checked weird error from email Sentry (Still in progress)
+• Debug onboarding flow with new context from Yisus Cata (Still in progress)
+• Fixed 1 of 4 Cata request to deploy drag and drop
+
+ Delayed :hourglass_flowing_sand: 
+• Check sentry errors","In progress :construction:
+- Deploying workflows project
+- Deploying drag and drop proposal
+
+Main :dart:
+- Complete requested features to deploy drag and drop
+- Check weird email sentry case
+- Onboarding emails debug
+
+Secondary :pushpin:
+- Sentry bug for this week
+- Kudos improvement",no
+2025-06-19T13:43:11-05:00,🤖 Daily Stand-up,Catalina Castro,No,"• 10:30 AM - 11:30 AM - Idea pre-selection conversation
+• 03:00 PM - 03:30 PM - 1:1 Andres/Catalina
+• 03:30 PM - 04:00 PM - 1:1 Catalina/Mauricio
+• 04:30 PM - 05:00 PM - 1:1 Cata - Lau
+• 05:00 PM - 05:30 PM - Sync about add-ons usage/insights with Alex
+• 05:30 PM - 06:00 PM - 1-1 SantiagoZ/Cata
+• Start QA drag and drop","• 09:00 AM - 10:00 AM - Horizon brainstorming
+• Sync with Andres to discuss about Drag and Drop changes
+• 11:00 AM - 12:00 PM - Product – Growth Alignment Sync with Albert
+• 02:30 PM - 03:00 PM - 1:1 Oscar/Catalina
+• QA chatbot agent
+• Help Alex running questions in Perplexity
+• QA amplitude events in Jira integration",No
+2025-06-19T09:07:09-05:00,🤖 Daily Stand-up,Sebastián Mora,No,"• Open the new function calling for all users
+• Release the tools migration to staging to test there
+• Sync with Horizon
+• Continue working on agent tasks","Meet with Horizon (Brainstorming)
+Solving the agent issues and continue for pushing for live",no
+2025-06-19T08:59:49-05:00,🤖 Daily Stand-up,Jesus Rivera,No,"I had a issue related with sending reports on aggregated report with the new linear upgrades.
+And participate on brainstorming meeting","I hope to finish the feature to auto sent activity reports
+participate on meeting of planning
+Continue with syntro issues",No
+2025-06-19T08:59:11-05:00,🤖 Daily Stand-up,Sergio Florez,No,"• Prepare data export for Growth Team
+• Sync with Horizon Team
+• Review the work required by Group Chats for MSTeams
+• Focus on review a critical issue with onboarding on hangouts
+• Sync with John about bug bounties","• Meeting with horizon team to make a brainstorming
+• Focus on review a critical issue with onboarding on hangouts
+• Review the work required by Group Chats for MSTeams",No
+2025-06-19T08:56:10-05:00,🤖 Daily Stand-up,Oscar Marin Molina,No,"'- :rocket: Sent Amplitude events for Jira to QA
+- :handshake: Did QA pairing with Santi for the time-off fix
+- :package: Deployed the Sentry error fix (adding DailyBot to a Team in MS Teams) to live
+- :pencil2: Worked on word pluralization in the check-in summary
+- :telephone_receiver: Had a meeting with Sergio to review the 500 error in the Hangouts API
+- :alarm_clock: Started reviewing the reminders fix",":mag: Continue reviewing the fix for reminders
+:rocket: Deploy to live the time-off fix (based on QA feedback)
+:art: Start UI changes on the Linear feature
+:bar_chart: Deploy to live the Amplitude events for Jira (based on QA feedback)",No
+2025-06-19T08:30:15-05:00,🤖 Daily Stand-up,Santiago Zapata,No,"Reviewed the team's releases 
+Caught up with missing releases 
+We tested new cases for the releases 
+Uploaded all pending releases 
+Tested all reported bugs","We will be devoting more morning hours to Playwrigth tests. 
+In the afternoon we will review new cases we have pending. 
+We will test web app and bot bugs",No
+2025-06-19T08:29:04-05:00,🤖 Daily Stand-up,Andrés Prieto,Yes,"Completed :white_check_mark:
+• 1:1 with Cata
+• Deployed reviewed tasks
+• Retake Onboarding issue with multiple emails (Also asked Yisus about this)
+• Asked Cata what happened with drag and drop release (This deploy is blocked)","Main :dart:
+• Fix issues related to code review for workflows project
+• Check weird error from email + Sentry
+• Debug onboarding flow with new context from Yisus + Cata
+• If possible deploy drag and drop
+Secondary :pushpin:
+• Check sentry errors
+• Fix time off UI","Currently the drag and drop releases is blocked due to missing requested double check, still waiting for that"
+2025-06-19T08:10:50-05:00,🤖 Daily Stand-up,John Darwin Morales,No,"Product:
+• Pre-release reviewing. I left some comments in the PRs. Andres's PR is pending to solve.
+• A user has reported a issue related with gmail domain. I was reviewing, but I didn't find the root case. Sergio has taken this task. 
+
+Security:
+• I have implemented the fix to prevent the issue reported on the bug bounty with the high priority. Also I have created the action report: https://docs.google.com/document/d/1-EINt_6-wZ9jb59voNoPGaTqlbPXKy7cYCdf3W1RD58/edit?tab=t.0#heading=h.gjp0pyuduzka","Security:
+- Share with Sergio the action report and implement the policy to prevent malicious behaviours with the window.oppener
+- I have another bug bounty to review, however I'll move to another cycle because it's requires an audit, and prefer do it with Sergio. 
+
+Product:
+- I'll review the severity of this issue: https://linear.app/dailybot/issue/CORE-134/discord-onboarding-error-invite-members-from-platform. And then it'll be rejected or accepted to this cycle or next one.
+- Followup to: https://linear.app/dailybot/issue/CORE-195/new-uxui-for-members-invitation-product-flow
+- Review sentry errors.",no
+2025-06-19T08:10:45-05:00,🤖 Daily Stand-up,Carolina Marulanda,No,"• ideas definition sync
+• Read shared documents on the horizon
+• Create horizon new ideas presentation 
+• Albert - Caro","• Horizon brainstorming
+• Work on agent (n8n)
+• Filter horizon ideas to define the approach",No
